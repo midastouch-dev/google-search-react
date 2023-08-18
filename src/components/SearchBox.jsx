@@ -5,7 +5,7 @@ import NavLinks from './NavLinks';
 
 const SearchBox = () => {
   // states
-  const [text, setText] = useState('');
+  const [text, setText] = useState('react.js');
   const { setSearchItem } = useSearchResultsContext();
 
   const [debouncedValue] = useDebounce(text, 1000);
