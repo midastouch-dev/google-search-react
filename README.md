@@ -3,7 +3,7 @@
 A Google Search Clone built using React.js and Tailwind CSS. This application allows users to search for various types of content using the Google Search API. The search results also include images and videos.
 
 ### [Open This Project](https://search-midas-touch.netlify.app/)
-  ![ScreenShot](https://github.com/midastouch-dev/search/blob/main/screenshot/image.jpg)
+  ![ScreenShot](https://github.com/midastouch-dev/google-search-react/blob/main/screenshot/image.jpg)
 
 ## Tech Stack
 
